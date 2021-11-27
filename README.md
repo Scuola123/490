@@ -3,4 +3,4 @@ template directory
 
 FRONT-END
 
-contains js,css,boostrap
+HTML, js,css,boostrap
