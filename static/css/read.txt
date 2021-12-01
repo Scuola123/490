@@ -1,1 +1,17 @@
 
+
+<br>COLORS TO USE
+<div style="background:#D22030">D22030</div>
+<div style="background:#e64b36">e64b36</div>
+<div style="background:#55565a">55565a</div>
+<div style="background:#000000">COLOR</div>
+<div style="background:#a9aba9">a9aba9</div>
+<div style="background:#bec6c3">bec6c3</div>
+<div style="background:#82cec9">82cec9</div>
+<div style="background:#92a1cd">92a1cd</div>
+<div style="background:#fdbf56"> fdbf56</div>
+<div style="background:#5b4c93">5b4c93</div>
+<div style="background:#2ca5da">2ca5da</div>
+<div style="background:#d8d2c4">d8d2c4</div>
+<br>
+color: cornsilk;
