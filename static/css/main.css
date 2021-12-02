@@ -1,4 +1,5 @@
 
+
 body {
     font-family: 'Sintony', sans-serif;
     color: #000;
@@ -440,8 +441,60 @@ table {
     width: 250px;
 }
 
-.save {background-color: #4CAF50;} /* Green */
-.info {background-color: #008CBA;} /* info*/
-.delete {background-color: #f44336;} /* delete */
-.details {background-color: #e7e7e7; color: black;} /* details */
-.print {background-color: #555555;} /* print*/
+.new {background-color: #4CAF50;
+    display: block;
+    width: 115px;
+    height: 25px;
+    padding: 3px;
+    text-align: center;
+    border-radius: 5px;
+    color: #343a40;
+    font-weight: bold;
+    line-height: 25px;
+    text-decoration: none;
+} /* Green */
+
+.edit {background-color: #008CBA;
+    display: block;
+    width: 115px;
+    height: 25px;
+    padding: 3px;
+    text-align: center;
+    border-radius: 5px;
+    color: #343a40;
+    font-weight: bold;
+    line-height: 25px;
+    text-decoration: none;
+} /* info*/
+.delete {background-color: #f44336;
+    display: block;
+    width: 115px;
+    height: 25px;
+    padding: 3px;
+    text-align: center;
+    border-radius: 5px;
+    color: #343a40;
+    font-weight: bold;
+    line-height: 25px;
+    text-decoration: none;
+} /* delete */
+.details {background-color: #e7e7e7; color: black;
+    display: block;
+    width: 115px;
+    height: 25px;
+    padding: 3px;
+    text-align: center;
+    border-radius: 5px;
+    color: #343a40;
+    font-weight: bold;
+    line-height: 25px;
+    text-decoration: none;
+} /* details */
+.print {
+    display: inline-block;
+    padding: 1em 1em;
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+    background-color: #4E9CAF;
+} /* print*/
