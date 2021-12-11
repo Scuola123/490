@@ -3,4 +3,4 @@ template directory
 
 FRONT-END
 
-HTML, js,css,boostrap
+HTML,(initial tasks boostrap), custom css, footer , forms  
